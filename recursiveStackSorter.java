@@ -32,4 +32,5 @@ public class RecursiveStack {
 //This is a comment to be ignored. Let us see if it behaves as expected. 
 //Try to add one more commit here.
 //Playing with merges
-//Let us try a merge here. And see how it pans out to our needs.  
+//Let us try a merge here. And see how it pans out to our needs. 
+//Trying to check if reset works. This message should go out. 
